@@ -6,12 +6,12 @@
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on **cloud-native AI pipelines and scalable backend services** in fintech, retail, and healthtech.  
-- 🌱 I’m currently learning more about **computer vision, optimization techniques in deep learning, and advanced cloud infrastructure**.  
-- 👯 I’m looking to collaborate on **open-source projects in AI/ML, distributed systems, or cloud orchestration**.  
-- 💬 Ask me about **Java, Python, Spring Boot, Kafka, Kubernetes, Docker, computer vision, and applying AI to real-world business problems**.  
+- 🔭 I’m currently working on **cloud-native AI pipelines and scalable backend services**
+- 🌱 I’m currently learning more about **computer vision, optimization techniques in deep learning, and advanced cloud infrastructure**.
+- 👯 I’m looking to collaborate on **open-source projects in AI/ML, distributed systems, or cloud orchestration**.
+- 💬 Ask me about **Java, Python, Spring Boot, Kafka, Kubernetes, Docker, computer vision, and applying AI to real-world business problems**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jmanuelc87)
-- ⚡ Fun fact: I bridge worlds — from **embedded systems (STM32)** to **AI-driven cloud platforms**, always seeking elegant solutions that scale.  
+- ⚡ Fun fact: I bridge worlds — from **embedded systems (STM32)** to **AI-driven cloud platforms**, always seeking elegant solutions that scale.
 
 ---
 
@@ -42,13 +42,6 @@
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=jetbrains&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-
-![Juan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
 ---
 

@@ -1,12 +1,12 @@
 # Hi there 👋, I’m Juan Manuel  
 
-### 💻 Software Engineer | AI & ML Enthusiast | Cloud-Native Developer  
+### 💻 Software Engineer | AI & ML Enthusiast | Cloud Developer
 
 ---
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on **cloud-native AI pipelines and scalable backend services**
+- 🔭 I’m currently working on **cloud AI pipelines and scalable backend services**
 - 🌱 I’m currently learning more about **computer vision, optimization techniques in deep learning, and advanced cloud infrastructure**.
 - 👯 I’m looking to collaborate on **open-source projects in AI/ML, distributed systems, or cloud orchestration**.
 - 💬 Ask me about **Java, Python, Spring Boot, Kafka, Kubernetes, Docker, computer vision, and applying AI to real-world business problems**.

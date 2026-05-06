@@ -1,67 +1,86 @@
-# Juan M. Carballo
+# hey, I'm Juan Manuel 👋
 
-**Sr. Software Engineer** - **AI/ML Engineer**
-MSc Applied AI · BSc Computer Engineering
+> Senior AI/ML Engineer · breaking and rebuilding LLM systems in production · MSc Applied AI
 
----
-
-## Overview
-
-I design and ship production AI/ML systems — from retrieval-augmented generation and agent architectures to the cloud infrastructure that runs them reliably at scale. My work sits at the intersection of applied machine learning, distributed backends.
-
-After years of building scalable platforms in Java/Spring and Python, my focus is now on bringing LLMs into observable, business-grade products — not demos.
+Somewhere between embedded firmware and cloud-native AI platforms, that's usually where you'll find me. I like systems that scale, code that's boring in the best way, and the occasional 2am debugging session that turns into a blog post.
 
 ---
 
-## Focus Areas
+### 🧠 what I'm up to
 
-- **Production LLM Systems** — RAG pipelines, agent orchestration, evaluation harnesses, and guardrails with LangChain and LangGraph
-- **Cloud AI Pipelines** — model serving, vector stores, and event-driven architectures on Kubernetes and Oracle Cloud Infrastructure
-- **Full-Stack Engineering** — bridging embedded systems (STM32) and AI-driven cloud platforms with solutions designed to scale
-
----
-
-## Currently
-
-Building cloud-native AI pipelines and the backend services that support them. Open to substantive collaboration on open-source work in AI/ML, distributed systems, and cloud orchestration.
-
-Reach me on [LinkedIn](https://www.linkedin.com/in/jmanuelc87).
+- 🔭 shipping **cloud AI pipelines** and backend services that don't fall over at 3am
+- 🌱 going deep on **agent systems & RAG** with LangChain / LangGraph
+- 👯 down to collab on anything **open-source**: AI/ML, distributed systems, cloud orchestration
+- 💬 happy to nerd out about Java, Python, Spring Boot, Kafka, k8s, Docker, computer vision, or how to actually make AI useful for a business
+- ⚡ fun fact: I went from flashing **STM32 boards** to deploying LLMs on Kubernetes — same itch, different scale
+- 📫 say hi → [LinkedIn](https://www.linkedin.com/in/jmanuelc87)
 
 ---
 
-## Technical Stack
+### 🎧 currently on loop
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<!-- Powered by https://github.com/kittinan/spotify-github-profile -->
+[![Spotify](https://spotify-github-profile.kittinan.com/api/view?uid=jm.carb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinan.com/api/view?uid=jm.carb&redirect=true)
 
-**Data & Storage**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Cloud, DevOps & Orchestration**  
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)
+![Top Tracks](https://spotify-recently-played-readme.vercel.app/api?user=jm.carb)
 
-**Machine Learning & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+> Soundtrack tends to swing between lo-fi for refactors, post-rock for architecture diagrams, and aggressive techno when the build is broken.
 
 ---
 
-*Engineering rigor applied to AI systems that have to actually work in production.*
+### 🛠️ stuff I reach for
+
+**languages & frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**databases & caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**devops & cloud**
+
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square&logo=spinnaker&logoColor=white)
+
+**ml & data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)
+
+---
+
+### 📊 the receipts
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jmanuelc87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuelc87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmanuelc87&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<sub>thanks for stopping by ✌️ ping me if you want to build something weird and useful.</sub>

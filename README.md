@@ -20,10 +20,8 @@ Somewhere between embedded firmware and cloud-native AI platforms, that's usuall
 ### 🎧 currently on loop
 
 <!-- Powered by https://github.com/kittinan/spotify-github-profile -->
-[![Spotify](https://spotify-github-profile.kittinan.com/api/view?uid=jm.carb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinan.com/api/view?uid=jm.carb&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jm.carb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
-![Top Tracks](https://spotify-recently-played-readme.vercel.app/api?user=jm.carb)
 
 > Soundtrack tends to swing between lo-fi for refactors, post-rock for architecture diagrams, and aggressive techno when the build is broken.
 
@@ -71,11 +69,6 @@ Somewhere between embedded firmware and cloud-native AI platforms, that's usuall
 ---
 
 ### 📊 the receipts
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jmanuelc87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuelc87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmanuelc87&theme=tokyonight&hide_border=true" />
